@@ -24,12 +24,18 @@
       path: /policies/cybersecurity_executive_summary
     - title: Data Breach Response
       path: /policies/data_breach_response
-    - title: Database credentials Policy
+    - title: Database Credentials Policy
       path: /policies/database_credentials_policy
+    - title: Data Protection Policy
+      path: /policies/data_protection_policy
     - title: Disaster Recovery plan Policy
       path: /policies/disaster_recovery_plan_policy
     - title: Email Policy
       path: /policies/email_policy
+    - title: Employee Background Check Policy
+      path: /policies/employee_background_check_policy
+    - title: Employee Confidentiality Policy
+      path: /policies/employee_confidentiality_policy
     - title: Employee Internet Use  Policy
       path: /policies/employee_internet_use_monitoring_and_filtering_policy
     - title: End-User Encryption Key Protection Policy
