@@ -37,6 +37,7 @@ The Cyber Security Policy is structured as a set of related documents covering e
 - [Cybersecurity Executive Summary](cybersecurity_executive_summary.md)
 - [Data Breach Response](data_breach_response)
 - [Database Credentials Policy](database_credentials_policy)
+- [Data Protection Policy](data_protection_policy)
 - [Disaster Recovery Plan Policy](disaster_recovery_plan_policy)
 - [Email Policy](email_policy)
 - [Employee Internet Use Monitoring And Filtering Polic](employee_internet_use_monitoring_and_filtering_policy)
