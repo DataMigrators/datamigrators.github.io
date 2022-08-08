@@ -108,7 +108,7 @@ None.
 
 ## Related Documents
 
-- [Information Security Policy](information_lifecycle_mangement_policy)
+- [Information Security Policy](information_lifecycle_management_policy)
 
 Example of how scope and responsibility change by type of cloud service:
 
