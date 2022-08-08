@@ -84,7 +84,7 @@ disciplinary action, up to and including termination of employment.
 
 ## Related Documents
 
--   Data Protection Standard
+-   [Data Protection Policy](data_protection_policy)
 
 ## Definitions and Terms
 
