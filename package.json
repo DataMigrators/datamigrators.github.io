@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "gatsby develop -H 0.0.0.0",
     "dev:clean": "gatsby clean && gatsby develop -H 0.0.0.0",
-    "build": "gatsby build && cp -r ./public ./docs",
-    "build:clean": "yarn clean && gatsby build && cp -r ./public ./docs",
+    "build": "gatsby build",
+    "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build && gh-pages -d public -b master"
