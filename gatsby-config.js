@@ -5,7 +5,6 @@ module.exports = {
     description: 'Data Migrators Document repository for customers ',
     keywords: 'gatsby,theme,carbon',
   },
-  pathPrefix: `/docs`,
   plugins: [
     `gatsby-transformer-remark`,
     {
