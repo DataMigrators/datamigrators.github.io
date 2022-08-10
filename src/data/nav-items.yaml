@@ -36,8 +36,10 @@
       path: /policies/employee_background_check_policy
     - title: Employee Confidentiality Policy
       path: /policies/employee_confidentiality_policy
-    - title: Employee Internet Use  Policy
+    - title: Employee Internet Use Policy
       path: /policies/employee_internet_use_monitoring_and_filtering_policy
+    - title: Employee Off-boarding Policy
+      path: /policies/employee_off_boarding_policy
     - title: End-User Encryption Key Protection Policy
       path: /policies/end_user_encryption_key_protection_policy
     - title: Ethics Policy
