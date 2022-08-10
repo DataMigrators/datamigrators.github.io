@@ -1,0 +1,160 @@
+- title: Getting started
+  pages:
+    - path: /getting-started
+- title: Demo
+  pages:
+    - path: /demo
+- title: Gallery
+  pages:
+    - path: /gallery
+- title: Contributions
+  pages:
+    - path: /contributions
+- title: Guides
+  pages:
+    - title: Authoring MDX
+      path: /guides/MDX
+    - title: Configuration
+      path: /guides/configuration
+    - title: Gatsby Sketch kit
+      path: /guides/sketch-kit
+    - title: Hosting
+      path: /guides/hosting
+    - title: Navigation
+      path: /guides/navigation/sidebar
+    - title: npm scripts
+      path: /guides/npm-scripts
+    - title: Shadowing
+      path: /guides/shadowing
+    - title: Styling
+      path: /guides/styling
+    - title: v2.0 Migration
+      path: /guides/v2-migration
+- title: Components
+  pages:
+    - title: Accordion
+      path: /components/Accordion
+    - title: AnchorLinks
+      path: /components/AnchorLinks
+    - title: ArtDirection
+      path: /components/ArtDirection
+    - title: ArticleCard
+      path: /components/ArticleCard
+    - title: Aside
+      path: /components/Aside
+    - title: Caption
+      path: /components/Caption
+    - title: Code blocks
+      path: /components/code-blocks
+    - title: DoDontExample
+      path: /components/DoDontExample
+    - title: DoDontRow
+      path: /components/DoDontRow
+    - title: FeatureCard
+      path: /components/FeatureCard
+    - title: FeedbackDialog
+      path: /components/FeedbackDialog
+    - title: GifPlayer
+      path: /components/GifPlayer
+    - title: Grid
+      path: /components/Grid
+    - title: ImageCard
+      path: /components/ImageCard
+    - title: ImageGallery
+      path: /components/ImageGallery
+    - title: InlineNotification
+      path: /components/InlineNotification
+    - title: Markdown
+      path: /components/markdown
+    - title: MediumPosts
+      path: /components/MediumPosts
+    - title: MiniCard
+      path: /components/MiniCard
+    - title: PageDescription
+      path: /components/PageDescription
+    - title: ResourceCard
+      path: /components/ResourceCard
+    - title: SquareCard
+      path: /components/SquareCard
+    - title: Tabs
+      path: /components/Tabs
+    - title: Title
+      path: /components/Title
+    - title: Video
+      path: /components/Video
+- title: Policies
+  pages:
+    - title: Acceptable Encryption Policy
+      path: /policies/acceptable_encryption_policy
+    - title: Acceptable Use Policy
+      path: /policies/acceptable_use_policy
+    - title: Anti-virus Guidelines
+      path: /policies/anti_virus_guidelines
+    - title: Change Management and Control
+      path: /policies/change_management_and_control
+    - title: Cloud Computing Policy
+      path: /policies/cloud_computing_policy
+    - title: Code of Conduct
+      path: /policies/code_of_conduct_policy
+    - title: Communications Equipment Policy
+      path: /policies/communications_equipment_policy
+    - title: Cybersecurity Executive Summary
+      path: /policies/cybersecurity_executive_summary
+    - title: Data Breach Response
+      path: /policies/data_breach_response
+    - title: Database credentials Policy
+      path: /policies/database_credentials_policy
+    - title: Disaster Recovery plan Policy
+      path: /policies/disaster_recovery_plan_policy
+    - title: Email Policy
+      path: /policies/email_policy
+    - title: Employee Internet Use  Policy
+      path: /policies/employee_internet_use_monitoring_and_filtering_policy
+    - title: End-User Encryption Key Protection Policy
+      path: /policies/end_user_encryption_key_protection_policy
+    - title: Ethics Policy
+      path: /policies/ethics_policy
+    - title: Information Lifecycle Management Policy
+      path: /policies/information_lifecycle_management_policy
+    - title: Internet Usage Policy
+      path: /policies/internet_usage_policy
+    - title: Lab Anti Virus Policy
+      path: /policies/lab_anti_virus_policy
+    - title: Lab Security Policy
+      path: /policies/lab_security_policy
+    - title: Mobile Device Encryption Policy
+      path: /policies/mobile_device_encryption_policy
+    - title: Mobile Employee Endpoint Responsibility Policy
+      path: /policies/mobile_employee_endpoint_responsibility_policy
+    - title: Password Construction Guidelines
+      path: /policies/password_construction_guidelines
+    - title: Password Protection Policy
+      path: /policies/password_protection_policy
+    - title: Remote Access Mobile Computing Storage
+      path: /policies/remote_access_mobile_computing_storage
+    - title: Remote Access Policy
+      path: /policies/remote_access_policy
+    - title: Remote Access Tools Policy
+      path: /policies/remote_access_tools_policy
+    - title: Removable Media Policy
+      path: /policies/removable_media_policy
+    - title: Risk Assessment Policy
+      path: /policies/risk_assessment_policy
+    - title: Secure Software Delivery Lifecycle
+      path: /policies/secure_software_delivery_lifecycle
+    - title: Security Response Plan Policy
+      path: /policies/security_response_plan_policy
+    - title: Server Audit Policy
+      path: /policies/server_audit_policy
+    - title: Server Malware Protection Policy
+      path: /policies/server_malware_protection_policy
+    - title: Server Security Policy
+      path: /policies/server_security_policy
+    - title: Social Engineering Awareness Policy
+      path: /policies/social_engineering_awareness_policy
+    - title: Software Installation Policy
+      path: /policies/software_installation_policy
+    - title: Technology Equipment Disposal Policy
+      path: /policies/technology_equipment_disposal_policy
+    - title: Workstation Security for HIPPA Policy
+      path: /policies/workstation_security_for_hipaa_policy
