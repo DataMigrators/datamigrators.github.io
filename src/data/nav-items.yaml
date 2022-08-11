@@ -4,6 +4,16 @@
       path: /introduction/company-information
     - title: Privacy statement
       path: /introduction/privacy-statement
+- title: Licenses
+  pages:
+    - title: Apache 2.0
+      path: /licenses/license-Apache-20
+    - title: BSD 2-clause
+      path: /licenses/license-BSD-2-clause
+    - title: MIT
+      path: /licenses/license-MIT
+    - title: WTFPL
+      path: /licenses/license-WTFPL
 - title: Policies
   pages:
     - title: John Test
