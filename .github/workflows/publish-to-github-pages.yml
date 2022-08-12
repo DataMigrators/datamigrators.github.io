@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: yarn install && yarn run deploy && git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/DataMigrators/datamigrators.github.io.git && npx gh-pages -d public -u "github-actions-bot <support+actions@github.com>" -b main
+      - run: yarn install && yarn run build && git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/DataMigrators/datamigrators.github.io.git && npx gh-pages -d public -u "github-actions-bot <support+actions@github.com>" -b main
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
