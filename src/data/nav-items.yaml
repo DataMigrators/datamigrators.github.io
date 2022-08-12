@@ -16,8 +16,6 @@
       path: /licenses/license-WTFPL
 - title: Policies
   pages:
-    - title: John Test
-      path: /john_test
     - title: Acceptable Encryption Policy
       path: /policies/acceptable_encryption_policy
     - title: Acceptable Use Policy
