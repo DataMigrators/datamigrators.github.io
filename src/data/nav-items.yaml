@@ -98,5 +98,7 @@
       path: /policies/software_installation_policy
     - title: Technology Equipment Disposal Policy
       path: /policies/technology_equipment_disposal_policy
+    - title: Vendor Management Policy
+      path: /policies/vendor_management_policy
     - title: Workstation Security for HIPPA Policy
       path: /policies/workstation_security_for_hipaa_policy
