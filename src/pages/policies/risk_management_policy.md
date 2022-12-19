@@ -1,12 +1,12 @@
 ---
-title: Risk Assessment Policy
+title: Risk Management Policy
 description: Data Migrators' policy on risk assessment
-keywords: 'ibm,carbon,gatsby,mdx,markdown'
+keywords: 'risk,management,policy'
 ---
 
 <PageDescription>
 
-This page describes Data Migrators' policy on risk assessment.
+This page describes Data Migrators' policy and procedures around risk management.
 
 </PageDescription>
 
@@ -28,7 +28,8 @@ See Purpose.
 
 ## Purpose
 
-To clarify Data Migrators' approach to Risk Management.
+To clarify Data Migrators' policy on Risk Management, and the processes that support
+that policy.
 
 
 ## Scope
@@ -37,7 +38,7 @@ This Policy applies to all Company officers, employees, partners, and
 contractors to facilities and systems controlled by the Company. The
 policy extends to all current and future activities, and new opportunities.
 
-Where necessary, more detailed risk management policies and procedures should
+Where necessary, more detailed risk management policies and procedures will
 be developed to cover specific areas of the Company's operations, such as 
 financial management and business management.
 
@@ -65,7 +66,7 @@ risk management standards.
 ### A commitment to training and knowledge development in the area of risk management ###
 
 Data Migrators is committed to ensuring that all staff, particularly those with 
-management, advisory and decision making responsibilities, obtain a sound understanding 
+management, advisory, and decision making responsibilities, obtain a sound understanding 
 of the principles of risk management and the requisite skills to implement risk 
 management effectively.
 
@@ -96,7 +97,7 @@ activities
 
 1. Data Migrators, in its need for risk management, aims to:
     * facilitate and review risk management activities across the institution through Data Migrators Directors;
-    * integrate risk management into the management culture of the University; and
+    * integrate risk management into the management culture of the Company; and
     * foster an environment where staff assume responsibility for managing risks.
 2. To secure its commitment to implement risk management effectively, Data Migrators aims to:
     * implement risk management across all aspects of the Company in accordance with best practice guidelines.
@@ -110,7 +111,7 @@ activities
     * enhance Data Migrators' governance and corporate management processes;
     * enable Data Migrators to effectively discharge its statutory and legislative financial management responsibilities;
     * provide a practical framework for managers to assess risks inherent in the decisions they take;
-    * assist and motivate decision makers, at all levels, to make good and proactive management decisions that do not expose USQ to unacceptable levels of risk of unfavourable events occurring which adversely impact on the attainment of organisational goals; encourage and commit decision makers to identify sound business opportunities that will benefit Data Migrators without exposing the Company to unacceptable levels of risk;
+    * assist and motivate decision makers, at all levels, to make good and proactive management decisions that do not expose Data Migrators to unacceptable levels of risk of unfavourable events occurring which adversely impact on the attainment of organisational goals; encourage and commit decision makers to identify sound business opportunities that will benefit Data Migrators without exposing the Company to unacceptable levels of risk;
     * minimise the risks of not identifying sound business opportunities;
     * protect Data Migrators from unacceptable costs or losses associated with its operations;
     * safeguarding of Data Migrators' resources - its people, finance, property and reputation;
@@ -150,14 +151,14 @@ of their likely occurrence or impact; and
 
 Risk management is a delegated line management responsibility. It is the 
 responsibility of all line managers to continually monitor their areas of 
-responsibility to ensure that risks are identified and managed. Line managers 
-should ensure that a contribution is made to the whole-of-University risk 
+responsibility to ensure that risks are identified and managed. Line managers
+should ensure that a contribution is made to the whole-of-Company risk 
 management process, on behalf of their areas of responsibility, that identifies 
 risks at all levels.
 
 The sharing of documented responses to risks and knowledge of risk management 
 principles and procedures will be fostered between line managers to ensure 
-consistency across the University.
+consistency across the Company.
 
 On an annual basis, line managers should review all activities to ensure that 
 any unacceptable risk exposures are identified and managed at an appropriate 
@@ -166,13 +167,13 @@ as part of the institution's annual operational and resource management process.
 
 #### Individual ####
 
-Each employee or other stakeholder throughout the University has a role in the 
+Each employee or other stakeholder throughout the Company has a role in the 
 risk management process and is responsible for actively participating in the 
-risk management process as appropriate to their position within the University.
+risk management process as appropriate to their position within the Company.
 
 #### Management of Risks Associated with New Opportunities ####
 
-In addition to the risks that already exist, the University is continually 
+In addition to the risks that already exist, the Company is continually 
 exposed to new risks particularly from the introduction of new activities. The 
 new risks should be incorporated into the initial planning and assessment 
 processes conducted prior to undertaking the activity and, subsequently, into the 
@@ -188,17 +189,17 @@ areas:
 +----------------------------------------------------------------------+----------------------------------------------------------------------+
 | Insurable Risks                                                      | Non-Insurable Risks                                                  |
 +======================================================================+======================================================================+
-| Insurable workplace health and safety risks                          | Non-insurable workplace health and safety risks |
-| Insurable fraud and corruption prevention activities                 | Non-insurable fraud and corruption prevention activities |
-| Unauthorised use of resources which represent an insurable risk      | Unauthorised use of resources which represent a non-insurable risk |
-| Reputation and image as an insurable risk                            | Reputation and image as a non-insurable risk |
-| Fire prevention measures and security precautions                    | Crisis contingency planning and disaster recovery |
-| Property loss and damage                                             | Accounting controls that are not cost effective |
-| Computer security                                                    | Loss of key staff and intellectual property |
-| Vehicle fleet management                                             | The impact of globalisation on risk exposures |
-| Professional negligence                                              | Management system inadequacies and poor work quality |
-| Other liability exposures                                            | Failure or disruption of a major income source or investment |
-| Legal liability                                                      |       |
+| * Insurable workplace health and safety risks                        | * Non-insurable workplace health and safety risks |
+| * Insurable fraud and corruption prevention activities               | * Non-insurable fraud and corruption prevention activities |
+| * Unauthorised use of resources which represent an insurable risk    | * Unauthorised use of resources which represent a non-insurable risk |
+| * Reputation and image as an insurable risk                          | * Reputation and image as a non-insurable risk |
+| * Fire prevention measures and security precautions                  | * Crisis contingency planning and disaster recovery |
+| * Property loss and damage                                           | * Accounting controls that are not cost effective |
+| * Computer security                                                  | * Loss of key staff and intellectual property |
+| * Vehicle fleet management                                           | * The impact of globalisation on risk exposures |
+| * Professional negligence                                            | * Management system inadequacies and poor work quality |
+| * Other liability exposures                                          | * Failure or disruption of a major income source or investment |
+| * Legal liability                                                    |       |
 +----------------------------------------------------------------------+----------------------------------------+
 
 ### Review ###
@@ -210,7 +211,7 @@ implementation of risk management strategies throughout the organisation.
 ### Guidance on Acceptable Risk ###
 
 Through its monitoring, review and reporting functions, Data Migrators' Directors
-will ensure that the University maintains a consistent approach to its assessment
+will ensure that the Company maintains a consistent approach to its assessment
 of acceptable risk.
 
 ### Documentation
@@ -223,10 +224,10 @@ management process.
 ### Compliance ###
 
 A representation and compliance statement should be provided by each project manager
- as formal acknowledgement of their responsibility to comply with risk management 
- policies and procedures. Each employee should have included in their Position 
- Description a responsibility for risk management, and Annual Performance Appraisals 
- should include an appropriate assessment thereof.
+as formal acknowledgement of their responsibility to comply with risk management 
+policies and procedures. Each employee should have included in their Position 
+Description a responsibility for risk management, and Annual Performance Appraisals 
+should include an appropriate assessment thereof.
 
 ### Staff Development ###
 
@@ -241,7 +242,7 @@ None.
 
 ## Related Documents
 
--   Risk Assessment Process
+[Risk Assessment Process](risk_assessment_policy)
 
 ## Definitions and Terms
 
