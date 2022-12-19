@@ -242,7 +242,7 @@ None.
 
 ## Related Documents
 
-[Risk Assessment Process](risk_assessment_policy)
+* [Risk Assessment Process](risk_assessment_policy)
 
 ## Definitions and Terms
 
