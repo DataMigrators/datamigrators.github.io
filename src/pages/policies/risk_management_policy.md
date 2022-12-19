@@ -189,17 +189,17 @@ areas:
 +----------------------------------------------------------------------+----------------------------------------------------------------------+
 | Insurable Risks                                                      | Non-Insurable Risks                                                  |
 +======================================================================+======================================================================+
-| * Insurable workplace health and safety risks                        | * Non-insurable workplace health and safety risks |
-| * Insurable fraud and corruption prevention activities               | * Non-insurable fraud and corruption prevention activities |
-| * Unauthorised use of resources which represent an insurable risk    | * Unauthorised use of resources which represent a non-insurable risk |
-| * Reputation and image as an insurable risk                          | * Reputation and image as a non-insurable risk |
-| * Fire prevention measures and security precautions                  | * Crisis contingency planning and disaster recovery |
-| * Property loss and damage                                           | * Accounting controls that are not cost effective |
-| * Computer security                                                  | * Loss of key staff and intellectual property |
-| * Vehicle fleet management                                           | * The impact of globalisation on risk exposures |
-| * Professional negligence                                            | * Management system inadequacies and poor work quality |
-| * Other liability exposures                                          | * Failure or disruption of a major income source or investment |
-| * Legal liability                                                    |       |
+| * Insurable workplace health and safety risks                        | * Non-insurable workplace health and safety risks
+| * Insurable fraud and corruption prevention activities               | * Non-insurable fraud and corruption prevention activities 
+| * Unauthorised use of resources which represent an insurable risk    | * Unauthorised use of resources which represent a non-insurable risk
+| * Reputation and image as an insurable risk                          | * Reputation and image as a non-insurable risk
+| * Fire prevention measures and security precautions                  | * Crisis contingency planning and disaster recovery
+| * Property loss and damage                                           | * Accounting controls that are not cost effective
+| * Computer security                                                  | * Loss of key staff and intellectual property
+| * Vehicle fleet management                                           | * The impact of globalisation on risk exposures
+| * Professional negligence                                            | * Management system inadequacies and poor work quality
+| * Other liability exposures                                          | * Failure or disruption of a major income source or investment
+| * Legal liability                                                    |  
 +----------------------------------------------------------------------+----------------------------------------+
 
 ### Review ###
@@ -242,7 +242,7 @@ None.
 
 ## Related Documents
 
-* [Risk Assessment Process](risk_assessment_policy)
+- [Risk Assessment Process](risk_assessment_policy)
 
 ## Definitions and Terms
 
