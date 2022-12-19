@@ -80,6 +80,8 @@
       path: /policies/removable_media_policy
     - title: Risk Assessment Policy
       path: /policies/risk_assessment_policy
+    - title: Risk Management Policy
+      path: /policies/risk_management_policy
     - title: Secure Software Delivery Lifecycle
       path: /policies/secure_software_delivery_lifecycle
     - title: Security Response Plan Policy
