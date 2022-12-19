@@ -34,7 +34,7 @@ The Cyber Security Policy is structured as a set of related documents covering e
 - [Cloud Computing Policy](cloud_computing_policy)
 - [Code Of Conduct Policy](code_of_conduct_policy)
 - [Communications Equipment Policy](communications_equipment_policy)
-- [Cybersecurity Executive Summary](cybersecurity_executive_summary.md)
+- [Cybersecurity Executive Summary](cybersecurity_executive_summary)
 - [Data Breach Response](data_breach_response)
 - [Database Credentials Policy](database_credentials_policy)
 - [Data Protection Policy](data_protection_policy)
