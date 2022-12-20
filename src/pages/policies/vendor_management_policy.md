@@ -83,4 +83,4 @@ Any vendor, consultant, or contractor found to have violated this policy may be 
 
 ## Definitions and Terms
 
-None
+None.
