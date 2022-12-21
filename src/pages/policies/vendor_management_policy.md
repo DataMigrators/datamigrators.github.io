@@ -79,7 +79,7 @@ Any vendor, consultant, or contractor found to have violated this policy may be 
 
 ## Related Documents
 
-- Vendor Risk Assessment Framework (Excel)
+- [Vendor Risk Assessment Framework](public/DM_Vendor_Risk_Assessment.xlsx)
 
 ## Definitions and Terms
 
