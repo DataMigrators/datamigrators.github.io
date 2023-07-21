@@ -54,6 +54,8 @@
       path: /policies/end_user_encryption_key_protection_policy
     - title: Ethics Policy
       path: /policies/ethics_policy
+    - title: Information Governance Policy
+      path: /policies/information_governance_policy
     - title: Information Lifecycle Management Policy
       path: /policies/information_lifecycle_management_policy
     - title: Internet Usage Policy
