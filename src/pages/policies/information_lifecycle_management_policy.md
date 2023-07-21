@@ -134,16 +134,9 @@ An employee found to have violated this policy may be subject to disciplinary ac
 ## Related Documents
 
 - [Encryption Policy](acceptable_encryption_policy)
-
-- Information Governance Policy
-- Confidentiality & Data Protection Act Policy
-- Information Sharing Policy
+- [Information Governance Policy](information_governance_policy)
+- [Data Protection Policy](data_protection_policy)
 - [Security Response Plan Policy](security_response_plan_policy)
--  Information Security Policy
- Subject Access Request Policy & Procedure
- Information Risk Policy
- Freedom of Information Policy
-
 
 
 ## Definitions and Terms
