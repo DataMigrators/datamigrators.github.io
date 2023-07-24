@@ -1,7 +1,7 @@
 ---
-title: Information Lifecycle Management Policy
-description: Data Migrators; Information Lifecycle Management Policy
-keywords: 'information,data,lifecycle,retention,policy'
+title: Information Governance Policy
+description: Data Migrators; Information Governance Policy
+keywords: 'information,data,governance,retention,policy'
 ---
 
 <PageDescription>
