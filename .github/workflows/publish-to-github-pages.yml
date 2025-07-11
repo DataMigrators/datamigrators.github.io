@@ -9,11 +9,17 @@ on:
       - master
 
 jobs:
-  build:
+  Build_And_Publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: yarn install && yarn run deploy
+      - name: Build Gatsby Pages
+        run: yarn install && yarn run build 
+      - name: Publish 
+        run: git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/DataMigrators/datamigrators.github.io.git && npx gh-pages -d public -u "github-actions-bot <support+actions@github.com>" -b main
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

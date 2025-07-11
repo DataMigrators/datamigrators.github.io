@@ -78,16 +78,16 @@ Remove the user's access to the following platforms and services:
   - Delete account pending review
 - Delete accounts from SaaS ALM systems
   - GitHub
-  - Azure DevOps (covered previously)
-- Delete accounts from self-hosted ALM systems (dm-demo-alm.*)
-  - Azure Server (if relevant)
-  - GitHub Server :question_mark:
-  - GitLab
-  - Jenkins
+  - Azure DevOps
+- Delete accounts from self-hosted ALM systems (`dm-demo-alm.*`)
+  - Azure Server (self-hosted)
+  - GitHub Server (self-hosted)
+  - GitLab (self-hosted)
+  - Jenkins (self-hosted)
 - Verify then remove user’s objects on the AWS dm-sandbox account
-- Remove any user-specific accounts on dm-demo-alm and dm-demo-datastage environments
-- Do whatever we have to do in Xero :question_mark:
-- Do whatever we have to do in Harvest :question_mark:
+- Remove any user-specific accounts on `dm-demo-alm` and `dm-demo-datastage` environments
+- Offboard in Xero
+- Offboard in Harvest
 Remove any relevant account from the following services: 
 - Bitdefender
 - Box

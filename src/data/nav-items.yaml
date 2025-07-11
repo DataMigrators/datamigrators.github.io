@@ -16,8 +16,6 @@
       path: /licenses/license-WTFPL
 - title: Policies
   pages:
-    - title: John Test
-      path: /john_test
     - title: Acceptable Encryption Policy
       path: /policies/acceptable_encryption_policy
     - title: Acceptable Use Policy
@@ -56,6 +54,8 @@
       path: /policies/end_user_encryption_key_protection_policy
     - title: Ethics Policy
       path: /policies/ethics_policy
+    - title: Information Governance Policy
+      path: /policies/information_governance_policy
     - title: Information Lifecycle Management Policy
       path: /policies/information_lifecycle_management_policy
     - title: Internet Usage Policy
@@ -82,6 +82,8 @@
       path: /policies/removable_media_policy
     - title: Risk Assessment Policy
       path: /policies/risk_assessment_policy
+    - title: Risk Management Policy
+      path: /policies/risk_management_policy
     - title: Secure Software Delivery Lifecycle
       path: /policies/secure_software_delivery_lifecycle
     - title: Security Response Plan Policy
@@ -98,5 +100,7 @@
       path: /policies/software_installation_policy
     - title: Technology Equipment Disposal Policy
       path: /policies/technology_equipment_disposal_policy
+    - title: Vendor Management Policy
+      path: /policies/vendor_management_policy
     - title: Workstation Security for HIPPA Policy
       path: /policies/workstation_security_for_hipaa_policy

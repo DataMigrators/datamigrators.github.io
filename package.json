@@ -9,8 +9,7 @@
     "build": "gatsby build",
     "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^4.20.0",
