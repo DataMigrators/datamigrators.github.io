@@ -68,6 +68,8 @@
       path: /policies/mobile_device_encryption_policy
     - title: Mobile Employee Endpoint Responsibility Policy
       path: /policies/mobile_employee_endpoint_responsibility_policy
+    - title: Modern Slavery and Human Trafficking Policy
+      path: /policies/modern_slavery_policy
     - title: Password Construction Guidelines
       path: /policies/password_construction_guidelines
     - title: Password Protection Policy
